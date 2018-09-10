@@ -13,12 +13,15 @@ This is a wireframe of a redesigned layout for the Wintermist Siberian Cattery w
 
 ## Screenshots of Original Website
 <img src="img/original.png">
+Original Page Layout
 
 ## Wireframes
 <img src="img/lofi-wireframe.png">
 Lo-fi wireframe
 <img src="img/hifi-wireframe.png">
 Hi-fi wireframe
+<img src="img/hifi-mobile-wireframe.png">
+Hi-fi wireframe for mobile
 
 ## Setup
 
